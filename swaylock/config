@@ -1,0 +1,41 @@
+# Swaylock-effects configuration
+
+# Use custom image as background
+image=/home/dons/Pictures/wallpapers/dontstop.jpg
+
+# Blur effect
+effect-blur=15x10
+effect-scale=2
+
+# General settings
+ignore-empty-password
+font=Ubuntu
+
+# Customize colors and text
+inside-color=00000000
+inside-clear-color=00000000
+inside-ver-color=00000000
+inside-wrong-color=00000000
+
+ring-color=1E90FFaa
+ring-clear-color=1E90FFaa
+ring-ver-color=1E90FFaa
+ring-wrong-color=FF0000aa
+
+line-color=00000000
+line-clear-color=00000000
+line-ver-color=00000000
+line-wrong-color=00000000
+
+text-color=FFFFFF
+text-clear-color=FFFFFF
+text-ver-color=FFFFFF
+text-wrong-color=FFFFFF
+
+key-hl-color=00FF00aa
+bs-hl-color=FF0000aa
+
+# Show clock
+clock
+timestr=%H:%M:%S
+datestr=%A, %d %B %Y
